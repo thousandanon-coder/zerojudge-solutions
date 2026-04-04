@@ -1,6 +1,6 @@
 # zerojudge-solutions
 
-這是將我在 ZeroJudge 上的解題過程
+這是我在 ZeroJudge 上的解題過程
 
 ### 📚 基礎題庫
 * [a001 | 哈囉](./a001.%20哈囉.cpp)  | ✅ AC
