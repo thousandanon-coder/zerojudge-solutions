@@ -27,4 +27,5 @@
 * [a104 | 排序](./a104.%20排序.cpp) | ✅ AC
 * [a147 | Print it all](./a147.%20Print%20it%20all.cpp) | ✅ AC
 * [a148 | You Cannot Pass?!](./a148.%20You.%20Cannot.%20Pass?!.cpp) | ✅ AC
-* [a149 |  乘乘樂](./a149.%20乘乘樂.cpp) | ✅ AC
+* [a244 | 新手訓練 ~ for + if](./a244.%20新手訓練%20~%20for%20+%20if.cpp) | ✅ AC
+* 
