@@ -31,4 +31,3 @@
 * [a148 | You Cannot Pass?!](./a148.%20You.%20Cannot.%20Pass?!.cpp) | ✅ AC
 * [a216 | 數數愛明明] | NA
 * [a244 | 新手訓練 ~ for + if](./a244.%20新手訓練%20~%20for%20+%20if.cpp) | ✅ AC
-* 
